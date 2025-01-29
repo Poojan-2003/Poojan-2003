@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/poojan dahiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poojan dahiya" height="30" width="40" /></a>
-<a href="https://instagram.com/dahiyapoojan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dahiyapoojan" height="30" width="40" /></a>
+<a href="https://instagram.com/poojandahiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dahiyapoojan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hikaru_cp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hikaru_cp" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nrjipt75mb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nrjipt75mb" height="30" width="40" /></a>
 </p>
