@@ -1,3 +1,7 @@
+
+![White and Blue Memphis Graphic Designer LinkedIn Banner](https://github.com/user-attachments/assets/93743a57-c03a-4ed7-971e-cd0efd3f131f)
+
+
 <h1 align="center">Hi 👋, I'm Poojan Dahiya</h1>
 <h3 align="center">AWS-certified B.Tech graduate with hands-on experience in software development(Core Java and NodeJS) and DevOps (Docker,Kubernetes,Jenkins,AWS),eager to apply technical skills in real-world software projects.</h3>
 
